@@ -2541,7 +2541,7 @@ async def removebannedword_error(ctx, error):
 
 keep_alive()
 
-bot.run("ODkyMjI1MDAxNDkzNzY2MTg1.YVJzSQ.aIT22U7cGxzNu0f65MWRyeULVlo")
+bot.run("ODkyMjI1MDAxNDkzNzY2MTg1.YVJzSQ.saybXcCWELG6C-73ktF_ZxUhI0o")
 asyncio.run(bot.db.close())
 
 # the end of my discord.py bot program :(
